@@ -38,6 +38,7 @@ public class EjercicioSeleccion66136 {
          
     if (cargador3>cargador1 && cargador3>cargador2)
             System.out.println("El numero mayor es: "+ cargador3);
+    
         
        
      
